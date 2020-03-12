@@ -1,0 +1,26 @@
+{
+  "name": "increment-as",
+  "version": "1.0.0",
+  "description": "Incrementing numbers per user as a service UI",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrefa/increment-as-view.git"
+  },
+  "keywords": [
+    "number",
+    "increment",
+    "interview",
+    "success"
+  ],
+  "author": "Andre Almeida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrefa/increment-as-view/issues"
+  },
+  "dependencies": {
+    "serve": "11.3.0"
+  }
+}
